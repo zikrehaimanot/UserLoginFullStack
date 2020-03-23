@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(img/star.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: black;
+}
+.col-sm-6{
+  font-weight: bold;
+  color: black;
+  font-size: 19px;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
+input{
+  border: 5px solid white;
+-webkit-box-shadow:
+  inset 0 0 8px  rgba(0,0,0,0.1),
+        0 0 16px rgba(0,0,0,0.1);
+-moz-box-shadow:
+  inset 0 0 8px  rgba(0,0,0,0.1),
+        0 0 16px rgba(0,0,0,0.1);
+box-shadow:
+  inset 0 0 8px  rgba(0,0,0,0.1),
+        0 0 16px rgba(0,0,0,0.1);
+
+background: rgba(255,255,255,0.5);
+}

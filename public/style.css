@@ -1,0 +1,9 @@
+body{
+  background-image: url(img/lying.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+.container{
+  width: 20%;
+}
